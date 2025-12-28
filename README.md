@@ -110,8 +110,8 @@ I’m a Computer Science graduate (B.Tech 2025) focused on building **GenAI-firs
 - **Approach:** Built and deployed a GitHub Pages portfolio focused on performance, accessibility, best practices, and SEO.
 - **Result:** A maintainable public portfolio site.
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Portfolio-22c55e?style=flat-square&labelColor=111827&logo=githubpages&logoColor=white)](https://sdishtiyaqahmed.github.io/Portfolio-Website/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-6e40c9?style=flat-square&labelColor=111827&logo=github&logoColor=white)](https://github.com/SdIshtiyaqAhmed/Portfolio-Website)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Portfolio-22c55e?style=flat-square&labelColor=111827&logo=githubpages&logoColor=white)](https://sdishtiyaqahmed.github.io/Portfolio-Website/)
 
 ---
 
@@ -129,8 +129,8 @@ I’m a Computer Science graduate (B.Tech 2025) focused on building **GenAI-firs
 - **Approach:** Built a PHP + MySQL platform with OTP verification + CAPTCHA and a retailer dashboard for 300+ products.
 - **Result:** Reduced manual order processing time by **40%** and cut bot sign-ups by **80%**.
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Website-16a34a?style=flat-square&labelColor=111827)](https://less.ct.ws/home.php)
 [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-6e40c9?style=flat-square&labelColor=111827&logo=github&logoColor=white)](https://github.com/SdIshtiyaqAhmed/Local-E-commerce-Smart-Store-LESS)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Website-16a34a?style=flat-square&labelColor=111827)](https://less.ct.ws/home.php)
 
 ---
 
